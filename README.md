@@ -14,13 +14,13 @@
     The various sections are linked to their respective navigation bar headings using local links.
 
 ### Technologies Used:
-    - The Technology used are:
+    The Technology used are:
         - HTML for webpage design
         - Git for version control
         - GitHub for remote storage    
 
 ### Usage:
-    - Click the headings on the nav bar to directly access their respective sections.
+    Click the headings on the nav bar to directly access their respective sections.
 
 ### Credits:
     - GoMyCode platform for guidelines.
@@ -30,6 +30,6 @@
 ### Author:
     - Name: Attah Amego 
     - Email: attah.amego@gmail.com
-    - GitHub profile: [Attah Amego](https://github.com/AttahAmego) 
-    - ![Image of Attah Amego](./Images/Attah.jpg)
+    - GitHub profile: [@AttahAmego](https://github.com/AttahAmego)
+    - ![Image of Attah Amego](Attah.jpg)
 
